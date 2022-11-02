@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Manual Approval Stage and Prod Deployment - v2";
+		return "Manual Approval Stage and Prod Deployment - v5";
 	}
 	
 }
